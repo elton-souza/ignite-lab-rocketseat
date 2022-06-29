@@ -60,7 +60,7 @@ export function Video(props: VideoProps) {
                     {data.lesson.teacher.bio}
                   </span>
                 </div>
-              </div>
+              </div> 
             )}
           </div>
 
